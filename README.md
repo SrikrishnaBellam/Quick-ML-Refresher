@@ -20,3 +20,7 @@ for a Probability quick refresher, I have concentrated on Bayesian probability a
 4) and for predicting I added log_class_priori with the likelihood to predict it
 
 and built a very simple Text Vectorizer
+
+## Calculus
+
+for the calculus quicj refresher, I have built a basic micrograd-autograd, followed by a simple MLP to test its implementation.
